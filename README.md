@@ -1,4 +1,4 @@
-azon Tableau Dashboard
+Amazon Tableau Dashboard
 
 Overview
 This repository contains an Amazon Tableau Dashboard that provides insightful data visualizations and metrics related to the performance of an Amazon e-commerce business. The dashboard is designed to help users understand key aspects of sales, customer behavior, product trends, and financial performance.
