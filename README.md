@@ -41,7 +41,7 @@ If you'd like to contribute, please fork the repository and submit a pull reques
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
 For any questions or feedback, feel free to reach out via email at:<br>
 Github : https://github.com/Aditigupta0020/    <br>
 LinkedIn : https://www.linkedin.com/in/aditigupta20/
