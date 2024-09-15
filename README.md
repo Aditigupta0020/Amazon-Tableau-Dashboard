@@ -38,7 +38,7 @@ This repository contains an Amazon Tableau Dashboard that provides insightful da
 ## Contributing
 If you'd like to contribute, please fork the repository and submit a pull request. For larger changes, open an issue to discuss ideas before implementation.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
